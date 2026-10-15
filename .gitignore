@@ -1,0 +1,23 @@
+# Java - Compiled files
+*.class
+
+# Java - Packaged files
+*.jar
+*.war
+*.ear
+
+# NetBeans - Generated files
+**/build/
+**/dist/
+**/nbproject/private/
+
+# IDE settings
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
